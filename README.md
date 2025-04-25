@@ -74,4 +74,4 @@ I bought the [iNiu 140W 25000mAh power bank](https://www.amazon.com.au/dp/B0CB1C
 
 ## Longevity
 
-According to the battery, I can run the Hackbook M4 Mini with my 18.5" portable screen at full brightness for 8.5 hours, or at minimum brightness for 13.5 hours.
+According to the battery, I can run the Hackbook M4 Mini with my [18.5" portable screen](https://www.amazon.com.au/dp/B0CSD5Y24N) at full brightness for 8.5 hours, or at minimum brightness for 13.5 hours.
