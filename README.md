@@ -10,6 +10,7 @@ Scenarios where this could be useful:
  * If non-square screens on Macbook Pros make your blood boil with rage
  * If you can't afford or don't want to pay for a Macbook Pro (smart choice)
  * If you have ergonomics concerns with shrinking laptops and one size fits all keyboards
+ * If you like your systems to be repairable and modular rather than comprised of proprietary parts shoehorned in to a closed source design available only from a single vendor for a limited time
  * If you are blind (and don't want to carry a screen around)
  * If you want to use AR instead of a screen and therefore prefer to be untherethed
  * If you are on a sailing ship, submarine, mobile home, campervan, or otherwise off-grid
