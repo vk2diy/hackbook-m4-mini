@@ -7,6 +7,7 @@ It makes an awesome 12V computer.
 Typical draw is 0.6A, with >1A peaks.
 
 Scenarios where this could be useful:
+ * If non-square screens on Macbook Pros make your blood boil with rage
  * If you can't afford or don't want to pay for a Macbook Pro (smart choice)
  * If you have ergonomics concerns with shrinking laptops and one size fits all keyboards
  * If you are blind (and don't want to carry a screen around)
