@@ -12,6 +12,10 @@ The process is essentially the same as that described by [@mikegyverComputer](ht
 
 Don't try this if you are uncomfortable breaking your computer. If you are unfamiliar with electronics it will be quite likely that you break it, and it is more than possible that it never starts again. That would be a waste of good hardware.
 
+## While you're at it
+
+If you really want to upgrade your system consider buying a larger SSD from [Amazon sellers](https://www.amazon.com/sbaceflay-Mini-Hard-Disk-Upgrade/dp/B0DYJ2FQYG). Note that this [requires reflashing your Mac](https://support.apple.com/en-us/108900) which itself requires a second Mac, so ensure you have one on hand!
+
 ## Tools required
 
 You will need:
