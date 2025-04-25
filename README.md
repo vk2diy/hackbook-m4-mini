@@ -6,6 +6,14 @@ It makes an awesome 12V computer.
 
 Typical draw is 0.6A, with >1A peaks.
 
+Scenarios where this could be useful:
+ * If you can't afford or don't want to pay for a Macbook Pro (smart choice)
+ * If you have ergonomics concerns with shrinking laptops and one size fits all keyboards
+ * If you are blind (and don't want to carry a screen around)
+ * If you want to use AR instead of a screen and therefore prefer to be untherethed
+ * If you are on a sailing ship, submarine, mobile home, campervan, or otherwise off-grid
+ * If you want a capable unix system to power a mobile mechatronic system
+
 The process is essentially the same as that described by [@mikegyverComputer](https://www.youtube.com/@mikegyverComputer) in his [power hack video](https://www.youtube.com/watch?v=-ZEwCB1UCIY) and [usbc power upgrade video](https://www.youtube.com/watch?v=PUqhrr-sxaM).
 
 ## Warning
@@ -59,3 +67,11 @@ You will need:
  * __Place a large piece of heat shrink on the power cable__. This will be used to enclose the entire USBC PD PCB and its soldered cable connections.
  * __Calculating the final position of the USBC PD PCB in the vent portion of the chassis, cut the cable to length and solder the ends to the USBC PD PCB output terminals__. You may need to create a hole in the vent assembly. This is best done with a drill after placing the vent assembly outside of the machine chassis on a block of wood or similar, to prevent metal swarf from entering the enclosure. To fix the PCB in place, use superglue or similar.
  * __Finally, reassemble the vent layers and close the case entirely__. You should now have a USB power port to run your Hackbook M4 Mini from battery!
+
+## Battery selection
+
+I bought the [iNiu 140W 25000mAh power bank](https://www.amazon.com.au/dp/B0CB1CCQ5P) based on the positive experience I had with a previous iNiu device.
+
+## Longevity
+
+According to the battery, I can run the Hackbook M4 Mini with my 18.5" portable screen at full brightness for 8.5 hours, or at minimum brightness for 13.5 hours.
