@@ -35,12 +35,13 @@ You will need:
  * A short length of two cables that are able to carry 4A safely (22AWG = 0.644mm diameter, or better), around 20-30cm for each of the two cables.
  * Patience for fiddly work
  * A soldering iron
- * Some scissors, snips or clippers
+ * Perferably a heat gun, otherwise a cigarette lighter or fast-moving soldering iron for heat shrink activation
+ * Some scissors, snips or clippers for cable finishing
  * Optionally, a wire stripping tool (if you can't do it with scissors)
  * A set of fine needle-nose tweezers for retrieving, placing and orienting screws
  * Some large heat shrink (preferable), electrical tape or thin plastic wrap
  * A large anti-static mat for your workspace
- * Small saucers or other containers to ensure you don't lose any screws
+ * Two small saucers or other containers to ensure you don't lose any screws
 
 ## Process
 
