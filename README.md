@@ -13,7 +13,7 @@ Scenarios where this could be useful:
  * If you like your systems to be repairable and modular rather than comprised of proprietary parts shoehorned in to a closed source design available only from a single vendor for a limited time
  * If you are blind (and don't want to carry a screen around)
  * If you want to use AR instead of a screen and therefore prefer to be untethered
- * If you are on a sailing ship, submarine, mobile home, campervan, or otherwise off-grid
+ * If you are on a sailing ship, submarine, mobile home, campervan, paraglider, recumbent touring bicycle, or otherwise off-grid
  * If you want a capable unix system to power a mobile mechatronic system
 
 The process is essentially the same as that described by [@mikegyverComputer](https://www.youtube.com/@mikegyverComputer) in his [power hack video](https://www.youtube.com/watch?v=-ZEwCB1UCIY) and [usbc power upgrade video](https://www.youtube.com/watch?v=PUqhrr-sxaM).
