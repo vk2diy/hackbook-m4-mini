@@ -31,7 +31,7 @@ If you really want to upgrade your system consider buying a larger SSD from [Ama
 You will need:
  * Apple security T4 star screwdriver (available in many sets these days)
  * Thin wedge for opening the case (I used two el-cheapo philips head screwdrivers, after the plastic triangle thinggies proved too fat for the job)
- * USBC PD dongle (I used [this one from Amazon](https://www.amazon.com.au/dp/B0DKNK3MD8)) but they mostly seem to use the same unmarked Chinese USB PD client chipset so are probably all mostly equivalent. Mine could source 12V @ 3.7A ![image](dc-load-with-3.7a.webp)
+ * USBC PD dongle (I used [this one from Amazon](https://www.amazon.com.au/dp/B0DKNK3MD8)) but they mostly seem to use the same unmarked Chinese USB PD client chipset so are probably all mostly equivalent. Mine could source 12V @ 3.7A ![image](dc-load-with-3.7a.webp) ![image](smart-cable-with-3.7a.webp)
  * A short length of two cables that are able to carry 4A safely (22AWG = 0.644mm diameter, or better), around 20-30cm for each of the two cables.
  * Patience for fiddly work
  * A soldering iron
@@ -77,6 +77,5 @@ I bought the [iNiu 140W 25000mAh power bank](https://www.amazon.com.au/dp/B0CB1C
 ## Longevity
 
 ![image](battery-capacity.webp)
-![image](smart-cable-with-3.7a.webp)
 
 According to the battery, I can run the Hackbook M4 Mini with my [18.5" portable screen](https://www.amazon.com.au/dp/B0CSD5Y24N) at full brightness for 8.5 hours, or at minimum brightness for 13.5 hours.
