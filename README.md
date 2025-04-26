@@ -90,6 +90,6 @@ According to the battery, I can run the Hackbook M4 Mini with my [18.5" portable
    * Power path: Additional overhead and losses from the battery DC - interter AC output - mac mini AC input to internal DC power conversion path
    * Weight: Heavy inverter hardware
    * Form factor: Impossible to fit in a backpack
-   * Longevity: 3 hours = ~50% battery use, ~6 hours max vs. our nominal 4+ hours (full brightness) or 6.75 hours (low brightness)
+   * Longevity: 5.5 hours (from '3 hours = ~50% battery use') vs. vs. our nominal 8.5 hours (full brightness) or 13.5 hours (low brightness)
    * Screen size: mini ipad vs. our 18.5"
    * Result: Fail on all counts, but honorable mention
