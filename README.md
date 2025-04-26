@@ -6,6 +6,8 @@ It makes an awesome 12V computer.
 
 Typical draw is 0.6A, with >1A peaks.
 
+![image](complete.webp)
+
 Scenarios where this could be useful:
  * If non-square screens on Macbook Pros make your blood boil with rage
  * If you can't afford or don't want to pay for a Macbook Pro (smart choice)
@@ -68,8 +70,8 @@ You will need:
  * __Optionally test the computer with a bench supply__. This requires you have a bench supply capable of supplying 12V at probably 2A or greater. If it turns on, you are in business. If not, turn it off, reverse the assembly, trace back and resolve your issues.
  * __Separately to the computer, test the USBC power distribution (PD) PCB__. This means place a multimeter on the + and - output terminals, and plug it in to a USBC PD capable power source. If you get between 12V and 13V, you're in business. If not, fiddle until you do. If you have a DC electronic load, you can use this to test the maximum draw. The USB PD PCBs I bought required a solder blob to configure 12V output (they were 5V out by default, despite seller claims otherwise) but then supplied happily up to 3.7A. Supply 3.8A would shut down the output of the USB PD source, which may have been a safety trigger in the source rather than a limitation of the USBC PD PCB. Roughly, 12V * 3.7A = 45W. My USB PD source claims 140W support on one port, and 40W support on a second port, however both ports had the same load cutoff, whether this was a propery of the USBC PD battery or the PCB client remains unknown. Regardless, that's well over the 3A that [@mikegyverComputer](https://www.youtube.com/@mikegyverComputer) said worked fine for him. He describes Apple hardware as 'over-engineered' such that a wide range of input voltages will be tolerated without problem, which is good news.
  * __Place a large piece of heat shrink on the power cable__. This will be used to enclose the entire USBC PD PCB and its soldered cable connections.  ![image](usbpdpcb-heatshrink-before.webp) ![image](usbpdpcb-heatshrink-after-1.webp) ![image](usbpdpcb-heatshrink-after-2.webp)
- * __Calculating the final position of the USBC PD PCB in the vent portion of the chassis, cut the cable to length and solder the ends to the USBC PD PCB output terminals__. You may need to create a hole in the vent assembly. This is best done with a drill after placing the vent assembly outside of the machine chassis on a block of wood or similar, to prevent metal swarf from entering the enclosure. To fix the PCB in place, use superglue or similar.  ![image](cableroute-1.webp) ![image](reassembled.webp) ![image](reassembled-2.webp)
- * __Finally, reassemble the vent layers and close the case entirely__. You should now have a USB power port to run your Hackbook M4 Mini from battery!
+ * __Calculating the final position of the USBC PD PCB in the vent portion of the chassis, cut the cable to length and solder the ends to the USBC PD PCB output terminals__. You may need to create a hole in the vent assembly. I used some snips and did not require other tools. The PCB sat nicely without the need for glue. ![image](cableroute-1.webp) ![image](reassembled.webp) ![image](reassembled-2.webp) Initial snip.  ![image](initial-snip-target.webp) ![image](initial-snip.webp) Second snip.  ![image](second-snip-target.webp) ![image](second-snip.webp)
+ * __Finally, reassemble the vent layers and close the case entirely__. You should now have a USB power port to run your Hackbook M4 Mini from battery! ![image](replacing-vent.webp) ![image](done-almost.webp) ![image](done-closup.webp) ![image](complete.webp)
 
 ## Battery selection
 
