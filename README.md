@@ -86,9 +86,10 @@ According to the battery, I can run the Hackbook M4 Mini with my [18.5" portable
 ## Previous projects / points of reference
 
  * About 10 months ago Hackaday reported on [Scott Yu-Jan's macintosh mini](https://hackaday.com/2025/03/25/designing-a-portable-mac-mini/#more-769147) which was an AC output power bank powering a previous generation (m3?) mac mini and an iPad.
-   * Battery: $160 for ~20k mAh vs our $65 ~24k mAh .. yeah nah
+   * Battery: $160 for ~20k mAh vs our $65 ~24k mAh
    * Power path: Additional overhead and losses from the battery DC - interter AC output - mac mini AC input to internal DC power conversion path
    * Weight: Heavy inverter hardware
-   * Form factor: Impossible to fit in a backpack = not very practical
-   * Longevity: 3 hours = ~50% battery use, ~6 hours max vs. our nominal 4+ hours (full brightness) or 6.75 hours (low brightness) ... yeah nah
-   * Screen size: mini ipad vs. our 18.5" ... yeah nah
+   * Form factor: Impossible to fit in a backpack
+   * Longevity: 3 hours = ~50% battery use, ~6 hours max vs. our nominal 4+ hours (full brightness) or 6.75 hours (low brightness)
+   * Screen size: mini ipad vs. our 18.5"
+   * Result: Fail on all counts, but honorable mention
