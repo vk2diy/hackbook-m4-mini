@@ -93,3 +93,6 @@ According to the battery, I can run the Hackbook M4 Mini with my [18.5" portable
    * Longevity: 5.5 hours (from '3 hours = ~50% battery use') vs. vs. our nominal 8.5 hours (full brightness) or 13.5 hours (low brightness)
    * Screen size: mini ipad vs. our 18.5"
    * Result: Fail on all counts, but honorable mention
+
+## Subsequent projects / points of reference
+ * And about 2 days after I posted the above, [Scott Yu-Jan posted a "portable" m4 mac mini](https://www.youtube.com/watch?v=MNnpzamnX84) .. but it still requires AC power.
